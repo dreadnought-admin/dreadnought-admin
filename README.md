@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **dreadnought-admin/dreadnought-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img align="center" src="https://data.whicdn.com/images/306091932/original.gif"/>
+</div>
+
+<div align="center">
+  <em>{/* how many times have you seen 'hello, world' already? */}</em>
+</div>
+
+<hr>
+<break/>
+
+<div align="center">
+  <img align="center" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif"/>
+  <h2><strong>Hi, I'm Dom.</strong> I like combat sports, Goth music, and software development.</h2>
+</div> 
+
+<div>
+  <fieldset>
+    <ul list-style="none">
+      <p>💾 I'm currently learning: <strong>Node.js</strong> 
+      <p>🦺 I'm working on: https://github.com/dreadnought-admin/bolt-and-socket</p>
+      <p>📭 Reach me @ <strong> domit.alexan@gmail.com</strong></p> 
+    </ul>  
+  </fieldset>
+</div>
+
+<hr>
+
+<p> This section is under construction. Standby, soldier! 🚧</p>
