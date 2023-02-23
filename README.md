@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 <div align="center">
   <img align="center" src="https://data.whicdn.com/images/306091932/original.gif"/>
 </div>
-
+<br/>
 <div align="center">
   <em>{/* how many times have you seen 'hello, world' already? */}</em>
 </div>
 
 <hr>
-<break/>
+<br/>
 
 <div align="center">
-  <img align="center" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif"/>
+  <img  height="300em" width="200.5em" align="center" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif"/>
   <h2><strong>Hi, I'm Dom.</strong> I like combat sports, Goth music, and software development.</h2>
 </div> 
 
