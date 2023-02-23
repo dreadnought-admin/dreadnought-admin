@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <div align="center">
-  <em>{/* how many times have you seen 'hello, world' already? */}</em>
+  <em>{/* how many times have you seen 'hello, world' here already? */}</em>
 </div>
 
 <hr>
