@@ -42,4 +42,3 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p> This section is under construction. Standby, soldier! 🚧</p>
