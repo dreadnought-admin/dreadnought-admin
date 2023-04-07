@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 <div>
   <fieldset>
     <ul list-style="none">
+      <p>🪃 Pronouns: <strong>He/Him</strong></p>
       <p>💾 I'm currently learning: <strong>Node.js</strong> and <strong>Python</strong>
-      <p>🦺 I'm working on: https://github.com/dreadnought-admin/nakmuay-forum </p>
-      <p>📭 Reach me @ <strong> domit.alexan@gmail.com</strong></p> 
+      <p>🦺 I'm working on: https://github.com/dreadnought-admin/authenticated-cropsey </p>
+      <p>📭 Reach me @ <strong> dom.alexan@gmail.com</strong></p> 
+      <p>🍰 Status: <strong>Still alive</strong></p>
     </ul>  
   </fieldset>
 </div>
