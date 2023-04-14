@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 
 <hr>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dreadnought-admin)](https://git.io/streak-stats)
+
