@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <ul list-style="none">
       <p>🪃 Pronouns: <strong>He/Him</strong></p>
       <p>💾 I'm currently learning: <strong>Node.js</strong> and <strong>Python</strong>
-      <p>🦺 I'm working on: https://github.com/dreadnought-admin/authenticated-cropsey </p>
+      <p>🦺 I'm working on: https://github.com/dreadnought-admin/the-black-market-redux </p>
       <p>📭 Reach me @ <strong> dom.alexan@gmail.com</strong></p> 
       <p>🍰 Status: <strong>Still alive</strong></p>
     </ul>  
