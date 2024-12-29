@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img  height="300em" width="200.5em" align="center" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif"/>
-  <h2><strong>Hi, I'm Dom.</strong> I like combat sports, Goth music, and software development.</h2>
+  <h2><strong>Hi, I'm Dom.</strong> I like combat sports, Goth music, writing, and software development.</h2>
 </div> 
 
 <div>
   <fieldset>
     <ul list-style="none">
-      <p>💾 I'm currently learning: <strong>Django</strong> and <strong>Python</strong>
-      <p>🦺 I'm working on: (https://github.com/dreadnought-admin/aldgateAPI_2023) </p>
+      <p>💾 I'm currently learning: <strong>MadCap Flare</strong> and <strong>Python</strong>
+      <p>🦺 I'm working on: (https://www.domitianwrites.com) </p>
       <p>📭 Reach me @ <strong> dom.alexan@gmail.com</strong></p> 
       <p>🍰 Status: <strong>Still alive</strong></p>
     </ul>  
